@@ -18,10 +18,10 @@ public class numberguessinggame{
             break;}
     
       else if(guess < answer){
-            System.out.println("your guess is less than the answer"+answer);}
+            System.out.println("your guess is less than the answer");}
 
       else{
-            System.out.println("your guess is greater than the answer"+answer);}
+            System.out.println("your guess is greater than the answer");}
     }
      
     if(score == 0){
